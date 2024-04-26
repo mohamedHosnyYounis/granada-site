@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: jf;
+    src: url(/resources/fonts/JF\ Flat\ Regular.otf);
+}
