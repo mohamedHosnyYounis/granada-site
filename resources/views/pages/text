@@ -1,0 +1,47 @@
+
+<div class="bg-white py-6 sm:py-8 lg:py-12 min-h-screen font-JF">
+  <div class="mx-auto max-w-screen-xl px-4 md:px-8">
+    <div class="grid gap-8 md:grid-cols-2 lg:gap-12">
+      <div class="md:mt-12 px-2">
+        <h2 class="text-center text-2xl font-bold text-teal-800 md:text-right">أكثر أنواع المواقع الالكترونية شيوعًا على شبكة الويب</h2>
+        <p href="#" class="text-sm pb-3 text-teal-800/70 py-2">
+          بواسطة <a href="#" class="font-semibold hover:text-gray-800">احمد عادل</a>, تم النشر: April 22,2024
+        </p>
+
+        <p class="mb-6 text-gray-500 sm:text-lg md:mb-8 md:leading-9">معروف عن شبكة الويب بضخامتها واتساعها المهول، حيث تضم شبكة الويب الكثير والكثير من انواع المواقع الالكترونية، فلا شك أن أعداد المواقع الالكترونية يقدر بالمليارات، تخدم كل منها أغراضا مختلفة وتتنافس فيما بينها للحصول على اهتمام أكبر عدد ممكن من الزوار اليوميين.
+
+          يتوقف اختلاف أنواع المواقع الالكترونية على الأغراض التي صممت من أجلها، فلا ضرورة لإنشاء موقع الكتروني إذا لم يكن له غرض معين يجذب الزوار له ويحثهم على استخدامه والاعتماد عليه في إشباع رغباتهم.
+          
+          تجدر الإشارة الى ضرورة التعرف على انواع المواقع الالكترونية ليس فقط إذا كنت تريد تصميم موقع الكتروني خاصًا بك أو بنشاطك التجاري، ولكن من الضروري أيضا تكوين فكرة عن انواع المواقع الالكترونية حيث يسهل ذلك عليك عملية التصفح على أنواع المواقع الإلكترونية التي تزورها بشكل يومي، ويزيد ذلك أيضا من قدرتك على الاستفادة من الموقع الالكتروني والوصول إلى الغرض من التصفح بشكل أسرع</p>
+      </div>
+        <div class="h-80 md:h-[550px] rounded-md max-w-full bg-cover mt-8" 
+          style="background-image:url({{asset('storage/assets/images/company2.jpg')}});">
+        </div>
+      
+    </div>
+    <div class="grid gap-8 md:grid-cols-2 lg:gap-12 mt-16">
+        <div class="h-80 md:h-[550px] max-w-full bg-cover mt-8" 
+        style="background-image:url({{asset('storage/assets/images/woman.svg')}});">
+        </div>
+        <div class="md:mt-12 px-2">
+          <h2 class="text-center text-2xl font-bold text-teal-800 md:text-right">أنواع المواقع الالكترونية الشائعة على شبكة الويب</h2>
+          <p href="#" class="text-sm pb-3 text-teal-800/70 py-2">
+            بواسطة <a href="#" class="font-semibold hover:text-gray-800">احمد عادل</a>, تم النشر: April 22,2024
+          </p>
+
+          <p class="mb-6 text-gray-500 sm:text-lg md:mb-8 md:leading-9">معروف عن شبكة الويب بضخامتها واتساعها المهول، حيث تضم شبكة الويب الكثير والكثير من انواع المواقع الالكترونية، فلا شك أن أعداد المواقع الالكترونية يقدر بالمليارات، تخدم كل منها أغراضا مختلفة وتتنافس فيما بينها للحصول على اهتمام أكبر عدد ممكن من الزوار اليوميين.
+
+            يتوقف اختلاف أنواع المواقع الالكترونية على الأغراض التي صممت من أجلها، فلا ضرورة لإنشاء موقع الكتروني إذا لم يكن له غرض معين يجذب الزوار له ويحثهم على استخدامه والاعتماد عليه في إشباع رغباتهم.
+            
+            تجدر الإشارة الى ضرورة التعرف على انواع المواقع الالكترونية ليس فقط إذا كنت تريد تصميم موقع الكتروني خاصًا بك أو بنشاطك التجاري، ولكن من الضروري أيضا تكوين فكرة عن انواع المواقع الالكترونية حيث يسهل ذلك عليك عملية التصفح على أنواع المواقع الإلكترونية التي تزورها بشكل يومي، ويزيد ذلك أيضا من قدرتك على الاستفادة من الموقع الالكتروني والوصول إلى الغرض من التصفح بشكل أسرع</p>
+        </div>
+       
+        {{-- <div class="md:col-span-2">
+          <h2 class="mb-2 text-center text-xl font-semibold text-gray-800 sm:text-2xl md:mb-4 md:text-right">About us</h2>
+
+          <p class="mb-6 text-gray-500 sm:text-lg md:mb-8">Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt veritatis a suscipit similique cum obcaecati maxime, fugit officia sunt. Laudantium est repellendus, necessitatibus totam, deleniti distinctio aliquid assumenda dolore voluptas molestiae perspiciatis temporibus ex ea.</p>
+        </div> --}}
+    </div>
+    
+  </div>
+</div>
